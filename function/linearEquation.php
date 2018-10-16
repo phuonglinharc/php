@@ -11,6 +11,6 @@ function linearEquation($a,$b){
     return $result;
 }
 
-echo = linearEquation(2,6);
+echo linearEquation(2,6);
 
 ?>
